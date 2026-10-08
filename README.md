@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anmol Chauhan</h1>
-<h3 align="center">MS CS at TU/e & Data Scientist | Applied AI/ML | NLP</h3>
+<h3 align="center">MS CS at TU/e & Ex Data Scientist at Odysseus | Applied AI/ML | NLP</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anmol-chauhan-cse">
@@ -16,8 +16,8 @@
 
 * 🎓 **MS in Computer Science & Engineering** at Eindhoven University of Technology (TU/e) (Class of 2028).
 * 🎓 **B.Tech in Computer Science** at CHARUSAT (CGPA: 9.39) (Class of 2025).
-* 💼 Previously worked as a **Data Scientist at Odysseus Solutions** building applied AI/ML solutions using Python, SQL, NLP, and LLM automation.
-* 🏆 **Invited Speaker** on "Introduction to Google Earth Engine" at PALEOSCHOOL-V.
+* 💼 Previously worked as a **Data Scientist at Odysseus Solutions for 2 years** building applied AI/ML solutions using Python, SQL, NLP, and LLM automation.
+* 🏆 **Invited Speaker** on "Introduction to Google Earth Engine" at PALEOSCHOOL-V for Research and Geospatioal analysis using LANDSAT 9 data.
 * 🏆 **Hackathon Winner** (First Runner-Up) for building an AI automation solution for cruise deck and cabin mapping.
 * 🔍 **Research** focused on traditional to AI-assisted Leukemia Detection and Google Earth Engine Time-lapse Analysis of Indian Archaeological sites.
 * 📫 How to reach me: **anmolchauhan3135@gmail.com**
